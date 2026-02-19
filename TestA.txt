@@ -2,3 +2,5 @@ Line 1 from local
 Line 2 from local
 Line 3 from remote main branch
 Line 4 from remote
+Line 2 from local update
+Line 3 from local
